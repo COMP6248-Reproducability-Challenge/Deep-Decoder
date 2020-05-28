@@ -1,6 +1,6 @@
 
 COMP6248-Deep Decoder: Concise image representations from untrained non-convolutional network
-=
+-
 
 University of Southampton COMP6248 Reproducability Challenge project.
 
